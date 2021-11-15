@@ -4,6 +4,10 @@
   <remote  name="sakura"
            fetch="https://github.com/ProjectSakura"
            revision="11" />
+
+  <remote  name="sakurawip"
+           fetch="https://github.com/psakurawip"
+           revision="11" />
            
   <remote  name="Sakura-Devices"
            fetch="https://github.com/Sakura-Devices"
